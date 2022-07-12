@@ -11,6 +11,6 @@ public class OptionsFrame{
 		print("0 - Quit");
 		print("1 - Play Game");
 		print("2 - Change Ship Placement");
-		println(4);
+		println(2);
 	}
 }

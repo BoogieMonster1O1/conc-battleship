@@ -11,6 +11,6 @@ public class PlacementFrame {
 		print("0 - Quit");
 		print("1 - Automatic Ship Placement");
 		print("2 - Manual Ship Placement");
-		println(5);
+		println(2);
 	}
 }

@@ -8,6 +8,6 @@ public class MainFrame {
 		print(" ____________");
 		print("0 - Exit");
 		print("1 - Play");
-		println(5);
+		println(2);
 	}
 }

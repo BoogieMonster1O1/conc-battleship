@@ -20,7 +20,7 @@ public class Renderer {
 		print("            (__)\\       )\\/\\");
 		print("                ||----w |");
 		print("                ||     ||");
-		println(3);
+		println(2);
 		render(currentFrame);
 	}
 
