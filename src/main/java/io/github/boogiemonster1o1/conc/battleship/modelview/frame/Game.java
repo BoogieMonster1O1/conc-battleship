@@ -6,7 +6,7 @@ import static io.github.boogiemonster1o1.conc.battleship.Util.clearScreen;
 import static io.github.boogiemonster1o1.conc.battleship.Util.print;
 import static io.github.boogiemonster1o1.conc.battleship.Util.println;
 
-public class Renderer {
+public class Game {
 	private FrameType currentFrame = FrameType.MAIN;
 
 	public void render() {

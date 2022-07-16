@@ -1,10 +1,10 @@
 package io.github.boogiemonster1o1.conc.battleship;
 
-import io.github.boogiemonster1o1.conc.battleship.modelview.frame.Renderer;
+import io.github.boogiemonster1o1.conc.battleship.modelview.frame.Game;
 
 public class Main {
 	public static void main(String[] args) {
-		Renderer renderer = new Renderer();
-		renderer.render();
+		Game game = new Game();
+		game.render();
 	}
 }
